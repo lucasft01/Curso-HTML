@@ -1,5 +1,8 @@
 @charset "UTF-8";
-
+@font-face {
+  font-family: 'FonteLogo'
+  src: url("../fonts/bubblegum-sans-regular.otf");
+}
 body{
   background-color: #dddddd;
   color: rgba(0, 0, 0, 1);
