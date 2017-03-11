@@ -9,7 +9,7 @@ body{
 }
 
 div#interface{
-  width: 1160px;
+  width: 1060px;
   background-color: #ffffff;
   margin: -20px auto 0px auto;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
@@ -24,7 +24,8 @@ p{
 header#cabecalho img#icone{
   position: relative;;
   left: 85%;
-  top: -60px;
+<<<<<<< HEAD
+  top: -30px;
 }
 
 header#cabecalho{
@@ -48,6 +49,9 @@ header#cabecalho h2{
   color: #888888;
   padding: 0px;
   margin-top: 0px;
+=======
+  top: -80px;
+>>>>>>> parent of 2408da3... header#cabecalho all add
 }
 /* Formatacao de imagens com legendas*/
 
@@ -91,10 +95,16 @@ nav#menu h1{
 nav#menu ul{
   list-style: none;
   text-transform: uppercase;
+<<<<<<< HEAD
+  position: relative;
+  top: -225px;
+  left: 452px;
+  display: block;
+=======
   position: absolute;
   top: -20px;
-  left: 870px;
-  display: block;
+  left: 600px;
+>>>>>>> parent of 2408da3... header#cabecalho all add
 }
 
 nav#menu li{
@@ -102,7 +112,7 @@ nav#menu li{
   background-color: #dddddd;
   padding: 10px;
   margin: 2px;
-  transition: 1s;
+  transition: background-color 1s;
 }
 
 nav#menu li:hover{
