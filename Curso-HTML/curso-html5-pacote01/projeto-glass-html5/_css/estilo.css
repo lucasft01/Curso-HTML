@@ -25,7 +25,6 @@ p{
 header#cabecalho img#icone{
   position: relative;
   left: 85%;
-<<<<<<< HEAD
   top: -50px;
 }
 
@@ -50,9 +49,7 @@ header#cabecalho h2{
   color: #888888;
   padding: 0px;
   margin-top: 0px;
-=======
   top: -80px;
->>>>>>> parent of 2408da3... header#cabecalho all add
 }
 /* Formatacao de imagens com legendas*/
 
@@ -99,7 +96,6 @@ nav#menu ul{
   position: relative;
   top: -210px;
   left: 460px;
->>>>>>> parent of 2408da3... header#cabecalho all add
 }
 
 nav#menu li{
