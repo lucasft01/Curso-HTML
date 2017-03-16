@@ -22,6 +22,18 @@ p{
   text-indent: 50px;
 }
 
+table#tableEsp {
+  border: 1px solid #606060;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table#tableEsp td{
+  border: 1px solid #606060;
+  padding: 10px;
+}
+
 header#cabecalho img#icone{
   position: relative;
   left: 85%;
