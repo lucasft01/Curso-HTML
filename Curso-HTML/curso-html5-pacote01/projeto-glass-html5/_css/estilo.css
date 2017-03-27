@@ -32,8 +32,34 @@ table#tableEsp {
 table#tableEsp td{
   border: 1px solid #606060;
   padding: 10px;
+  vertical-align: middle;
+  text-align: center;
 }
 
+table#tableEsp td.ce{
+    color: white;
+    background-color: gray;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+table#tableEsp td.cd{
+    background-color: lightgray;
+}
+
+table#tableEsp caption{
+    color: lightslategray;
+    font-size: 13;
+    font-weight: bolder;
+}
+
+table#tableEsp caption span{
+    display: block;
+    float: right;
+    color: dimgray;
+    font-size: 8px;
+    margin-top: 10px;
+}
 header#cabecalho img#icone{
   position: relative;
   left: 85%;
